@@ -13,7 +13,7 @@ from `letter_templates` folder, puts person name, and sends it using SMTP protoc
 3. Download the project .zip file OR Enter to the terminal:
    `git clone https://github.com/ZhenyaChan/birthday_wisher.git`
 4. Change <strong>MY_EMAIL, PASSWORD</strong> variables to your email and app password in profile settings.
-5. Run the code by entering `python -u "./main.py`
+5. Run the code by entering in the terminal `python3 "./main.py`
 ```sh
 NOTE: If the email of the recipient is not @gmail, you have to change smtp address:
 Gmail: smtp.gmail.com
